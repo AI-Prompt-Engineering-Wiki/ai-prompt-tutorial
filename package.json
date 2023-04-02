@@ -1,0 +1,24 @@
+{
+  "name": "ai-prompt-tutorial",
+  "version": "0.0.1",
+  "description": "了解如何撰写能够让 AI 更好理解的 Prompt",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "keywords": [
+    "ai prompt 教程",
+    "ai prompt tutorial",
+    "AIGC",
+    "prompt",
+    "学习 prompt",
+    "learning prompt"
+  ],
+  "author": "leeyw",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "1.0.0-alpha.64"
+  }
+}
