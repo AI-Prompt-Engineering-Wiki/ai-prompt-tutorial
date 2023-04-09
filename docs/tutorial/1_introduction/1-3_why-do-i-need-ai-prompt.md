@@ -1,4 +1,4 @@
-# 为什么需要 Prompt Engineering
+# 为什么需要 Prompt Engineering<Badge type="tip" text="阅读时长 12-15 分钟" />
 
 &emsp;&emsp;Prompt Engineering 是指设计和优化 AI 模型的输入提示，以便更好地引导模型生成高质量的输出结果。尽管大型 AI 模型（如 ChatGPT）在自然语言理解和生成方面具有强大的能力，但它们仍然受限于用户提供的输入提示。因此，为了充分发挥 AI 模型的潜力并解决实际问题，我们需要对提示进行精心设计和优化。以下是需要 Prompt Engineering 的几个原因：
 

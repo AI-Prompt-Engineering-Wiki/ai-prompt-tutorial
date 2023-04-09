@@ -1,4 +1,4 @@
-# AI Prompt Engineering 常见规则与限制
+# AI Prompt Engineering 常见规则与限制<Badge type="tip" text="阅读时长 10-15 分钟" />
 
 在 AI Prompt Engineering 中，了解常见的规则和限制对于设计有效的自然语言和图像提示至关重要。遵循这些规则和限制可以提高生成结果的质量、准确性和连贯性。本章节将介绍一些常见的规则和限制，并给出相关的论文引用和示例。
 

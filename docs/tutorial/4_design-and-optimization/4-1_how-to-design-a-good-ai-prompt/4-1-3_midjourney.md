@@ -1,4 +1,4 @@
-# Midjourney
+# Midjourney<Badge type="tip" text="阅读时长 15-25 分钟" />
 
 &emsp;&emsp;在本章节中，我们将介绍 Midjourney 的语法格式，以便更好地利用 Midjourney 的潜力。
 

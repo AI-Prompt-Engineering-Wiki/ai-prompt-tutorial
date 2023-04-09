@@ -1,4 +1,4 @@
-# 内容概述
+# 内容概述<Badge type="tip" text="阅读时长 6-10 分钟" />
 
 &emsp;&emsp;本教程《AI Prompt Engineering 教程》将带领读者了解与 Prompt Engineering 相关的核心概念、方法和实践。我们将通过以下章节为您提供专业的知识和实用技巧：
 

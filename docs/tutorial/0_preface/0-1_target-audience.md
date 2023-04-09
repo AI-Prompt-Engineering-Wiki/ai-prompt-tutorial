@@ -1,4 +1,4 @@
-# 目标读者
+# 目标读者<Badge type="tip" text="阅读时长 2-3 分钟" />
 
 &emsp;&emsp;本教程《AI Prompt Engineering 教程》旨在为对 Prompt Engineering 技术感兴趣的初学者和实践者提供一份详尽的指南。我们力求为您提供一个全面的视角来了解 Prompt Engineering，以及它在实际场景中的应用。本教程内容相对基础且具有实用性，适用于以下目标读者：
 

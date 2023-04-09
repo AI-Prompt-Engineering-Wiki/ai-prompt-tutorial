@@ -1,4 +1,4 @@
-# Prompt Engineering 应用场景
+# Prompt Engineering 应用场景<Badge type="tip" text="阅读时长 10-15 分钟" />
 
 &emsp;&emsp;Prompt Engineering 在众多应用场景中发挥着重要作用。下面我会抛砖引玉，通过 7 个方向、每个方向会举几个例子，以及针对每个例子的实际操作举例来展开 Prompt Engineering 的实际应用。
 

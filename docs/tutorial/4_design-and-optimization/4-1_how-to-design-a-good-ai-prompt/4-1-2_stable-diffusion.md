@@ -1,4 +1,4 @@
-# Stable Diffusion
+# Stable Diffusion<Badge type="tip" text="阅读时长 15-25 分钟" />
 
 &emsp;&emsp;在 Stable Diffusion 中，你可以使用一些常用的语法来控制图像的生成过程。例如，权重比例语法可以提高或降低某个提词的权重，提词混合语法可以交替使用两个提词，添加和移除语法可以在特定步骤中加入或移除某个提词，OR 语法可以在前后部分绘制不同的物体等等。
 

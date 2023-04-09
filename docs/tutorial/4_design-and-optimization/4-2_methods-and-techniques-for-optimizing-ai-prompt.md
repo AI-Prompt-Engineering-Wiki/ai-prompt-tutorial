@@ -1,4 +1,4 @@
-# 优化 Prompt 的方法与技巧
+# 优化 Prompt 的方法与技巧<Badge type="tip" text="阅读时长 8-12 分钟" />
 
 &emsp;&emsp;本章节将提供一些方法和技巧，帮助您优化 Prompt，以便更好地利用 AI 模型生成高质量的输出。这些方法和技巧适用于 ChatGPT、StableDiffusion 和 Midjourney 等不同类型的 AI 模型。
 

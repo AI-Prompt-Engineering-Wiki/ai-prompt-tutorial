@@ -1,4 +1,4 @@
-# Prompt Engineering 基本概念与术语
+# Prompt Engineering 基本概念与术语<Badge type="tip" text="阅读时长 15-25 分钟" />
 
 &emsp;&emsp;在深入了解 Prompt Engineering 之前，我们需要先了解一些基本概念和术语。
 

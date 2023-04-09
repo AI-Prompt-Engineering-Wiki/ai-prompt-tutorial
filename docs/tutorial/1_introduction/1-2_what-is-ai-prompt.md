@@ -1,4 +1,4 @@
-# 什么是 Prompt Engineering
+# 什么是 Prompt Engineering<Badge type="tip" text="阅读时长 10-18 分钟" />
 
 &emsp;&emsp;Prompt Engineering 是一门关于如何有效地使用 AI 大模型（例如 GPT-3 和 GPT-4）的技巧和方法的学科。在这个领域中，我们研究如何设计输入（即 prompt）以引导 AI 大模型生成我们期望的输出。本章将解释 Prompt Engineering 的基本概念、目标和过程，为您提供一个全面的理解。
 

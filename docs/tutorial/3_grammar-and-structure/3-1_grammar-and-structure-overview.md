@@ -1,4 +1,4 @@
-# AI Prompt Engineering 语法与结构部分
+# AI Prompt Engineering 语法与结构部分<Badge type="tip" text="阅读时长 8-15 分钟" />
 
 &emsp;&emsp;在 AI Prompt Engineering 中，语法与结构起着至关重要的作用。正确的语法和结构可以有效地引导 AI 模型生成所需的输出结果。本部分将分为文本和图像两大类来讨论语法与结构，重点介绍一些核心概念和方法，并给出相关的论文引用和图例。
 
