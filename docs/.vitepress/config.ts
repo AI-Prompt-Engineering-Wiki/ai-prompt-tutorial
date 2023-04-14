@@ -98,7 +98,12 @@ const tutorialSidebar = [
   {
     text: '高级应用',
     collapsed: true,
-    items: [],
+    items: [
+      {
+        text: '论文去重',
+        link: '/tutorial/5_advance_case/5-1_paper-remove-duplicates',
+      },
+    ],
   },
   {
     text: '推荐工具',
