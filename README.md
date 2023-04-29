@@ -1,22 +1,18 @@
-<div style="display: flex;justify-content: center;align-items: center;">
-![](./img/logo.jpeg)
-<div>
-
 # AI 提示工程入门 📝💨
 
 我最近在系统的学习提示工程，总结了一下笔记，也写一个“AI 提示工程入门”，供新手们使用，每周更新 1-3 讲。
 
 路线图根据本仓库 star 数量来定：
 
-[x] 2 :star: 发布官网: [ai-prompt-engineering.wiki](http://ai-prompt-engineering.wiki/)
+- [x] 2 :star: 发布官网: [ai-prompt-engineering.wiki](http://ai-prompt-engineering.wiki/)
 
-[] 32 :star: 建立社群
+- [] 32 :star: 建立社群
 
-[] 128 :star: 出进阶内容
+- [] 128 :star: 出进阶内容
 
-[] 1024 :star: 发课程认证`SBT`
+- [] 1024 :star: 发课程认证`SBT`
 
-[] 2048 :star: 发社群 NFT
+- [] 2048 :star: 发社群 NFT
 
 ## 一、前言
 
@@ -52,11 +48,12 @@
 
 ### 1. 如何设计好的 Prompt
 
-**1.1 ChatGPT** [文章](https://github.com/AI-Prompt-Engineering-Wiki/ai-prompt-tutorial/blob/master/docs/tutorial/4_design-and-optimization/4-1_how-to-design-a-good-ai-prompt/4-1-1_chatgpt.md)
+  **1.1 ChatGPT** [文章](https://github.com/AI-Prompt-Engineering-Wiki/ai-prompt-tutorial/blob/master/docs/tutorial/4_design-and-optimization/4-1_how-to-design-a-good-ai-prompt/4-1-1_chatgpt.md)
 
-**1.2 StableDiffusion** [文章](https://github.com/AI-Prompt-Engineering-Wiki/ai-prompt-tutorial/blob/master/docs/tutorial/4_design-and-optimization/4-1_how-to-design-a-good-ai-prompt/4-1-2_stable-diffusion.md)
+  **1.2 StableDiffusion** [文章](https://github.com/AI-Prompt-Engineering-Wiki/ai-prompt-tutorial/blob/master/docs/tutorial/4_design-and-optimization/4-1_how-to-design-a-good-ai-prompt/4-1-2_stable-diffusion.md)
 
-**1.3 Midjourney** [文章](https://github.com/AI-Prompt-Engineering-Wiki/ai-prompt-tutorial/blob/master/docs/tutorial/4_design-and-optimization/4-1_how-to-design-a-good-ai-prompt/4-1-3_midjourney.md)
+  **1.3 Midjourney** [文章](https://github.com/AI-Prompt-Engineering-Wiki/ai-prompt-tutorial/blob/master/docs/tutorial/4_design-and-optimization/4-1_how-to-design-a-good-ai-prompt/4-1-3_midjourney.md)
+<br>
 
 **2. 优化 Prompt 的方法与技巧** [文章](https://github.com/AI-Prompt-Engineering-Wiki/ai-prompt-tutorial/blob/master/docs/tutorial/4_design-and-optimization/4-2_methods-and-techniques-for-optimizing-ai-prompt.md)
 
