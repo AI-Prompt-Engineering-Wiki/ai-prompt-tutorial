@@ -12,4 +12,4 @@
 
 - **教育者和研究人员**：希望在教学和研究过程中利用 Prompt Engineering 技术，例如辅助教学、学术研究、论文写作等。
 
-&emsp;&emsp;本教程将向您介绍 Prompt Engineering 技术的基本概念、设计原则、语法和结构、优化方法。我们将引导您探索 Prompt Engineering 技术在各领域的广泛应用场景，帮助您解决实际问题，同时为您提供推荐工具和未来发展趋势的分析。在掌握这些知识后，您将能够更好地运用 Prompt Engineering 为您的工作和项目创造价值。
+&emsp;&emsp;本教程将向您介绍 Prompt Engineering 技术的基本概念、设计原则、语法和结构、优化方法。我们将引导您探索 Prompt Engineering 技术在各领域的广泛应用场景，帮助您解决实际问题，同时为您提供推荐工具和未来发展趋势的分析。在掌握这些知识后，您将能够更好地运用 Prompt Engineering 为您的工作和项目创造价值!
