@@ -115,7 +115,11 @@ const tutorialSidebar = [
       },
       {
         text: '（开源）OpenPromptStudio',
-        link: '/tutorial/6_recommend-tools/6-2_moonvy-open-prompt-studio.md',
+        link: '/tutorial/6_recommend-tools/6-2_moonvy-open-prompt-studio',
+      },
+      {
+        text: 'SharePromptCC',
+        link: '/tutorial/6_recommend-tools/6-3_share-prompt-cc',
       },
     ],
   },
