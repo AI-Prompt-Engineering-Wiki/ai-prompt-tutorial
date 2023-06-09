@@ -110,8 +110,12 @@ const tutorialSidebar = [
     collapsed: true,
     items: [
       {
-        text: '清华-OpenPrompt',
+        text: '（开源）清华-OpenPrompt',
         link: '/tutorial/6_recommend-tools/6-1_tsinghua-open-prompt',
+      },
+      {
+        text: '（开源）OpenPromptStudio',
+        link: '/tutorial/6_recommend-tools/6-2_moonvy-open-prompt-studio.md',
       },
     ],
   },
