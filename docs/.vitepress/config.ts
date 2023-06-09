@@ -108,7 +108,12 @@ const tutorialSidebar = [
   {
     text: '推荐工具',
     collapsed: true,
-    items: [],
+    items: [
+      {
+        text: '清华-OpenPrompt',
+        link: '/tutorial/6_recommend-tools/6-1_tsinghua-open-prompt',
+      },
+    ],
   },
   {
     text: '未来发展',
