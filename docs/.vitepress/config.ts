@@ -118,10 +118,6 @@ const tutorialSidebar = [
         link: '/tutorial/6_recommend-tools/6-2_moonvy-open-prompt-studio',
       },
       {
-        text: 'SharePromptCC',
-        link: '/tutorial/6_recommend-tools/6-3_share-prompt-cc',
-      },
-      {
         text: 'MdjPromptHelper',
         link: '/tutorial/6_recommend-tools/6-4_prompt-noonshot',
       },
